@@ -19,7 +19,6 @@
 - 💬 Ask me anything about software development
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu practitioner and athlete
--->
 
 &nbsp;
 
