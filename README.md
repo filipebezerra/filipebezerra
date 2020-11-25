@@ -15,7 +15,7 @@
   - Software engineering, design and architecture skills;
   - English pronunciation skills;
   - Algorithms;
-- 🌱 I’m currently learning Flutter, Redis and MongoDB
+- 🌱 I’m currently learning Flutter
 - 💬 Ask me anything about software development
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu practitioner and athlete
