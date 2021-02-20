@@ -9,7 +9,7 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on Mobile Territorio for [ICS at Goiânia](http://www.icsaude.com.br/) and [Ponto Doméstico App](https://play.google.com/store/apps/details?id=com.pontodomesticoapp.pontodomestico)
+- 🔭 I’m currently working on PRIMUS app for [ICS at Goiânia](http://www.icsaude.com.br/) and [Ponto Doméstico App](https://play.google.com/store/apps/details?id=com.pontodomesticoapp.pontodomestico)
 - 🌱 I’m currently improving:
   - Python and Android/Kotlin development skills;
   - Software engineering, design and architecture skills;
