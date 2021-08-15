@@ -1,4 +1,4 @@
-## Hi, I'm Filipe Bezerra, a Full-Stack Developer 🚀 using Python and Kotlin (sometimes Java, but don't expect that) from Brazil.
+## Hi, I'm Filipe Bezerra, a Full-Stack Developer 🚀 using Kotlin && Python (rarely with Java, but don't expect that) from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/filipebezerra)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipebezerra/)
@@ -9,14 +9,14 @@
 
 &nbsp;
 
-- 🔭 I’m currently working on PRIMUS app for [ICS at Goiânia](http://www.icsaude.com.br/) and [Ponto Doméstico App](https://play.google.com/store/apps/details?id=com.pontodomesticoapp.pontodomestico)
+- 👨‍💻 I'm currently an Android Developer at MovilePay
+- 🔭 I’m currently working on PRIMUS app for [ICS at Goiânia](http://www.icsaude.com.br) and [ELTA Books](https://www.instagram.com/elta.books)
 - 🌱 I’m currently improving:
   - Python and Android/Kotlin development skills;
   - Software engineering, design and architecture skills;
   - English pronunciation skills;
   - Algorithms;
-- 🌱 I’m currently learning Flutter
-- 💬 Ask me anything about software development
+- 💬 Ask me anything about software development, Jiu-Jitsu or sustainable lifestyle
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu practitioner and athlete
 
