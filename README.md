@@ -16,7 +16,7 @@
   - [Software engineering, design and architecture skills](https://coursera.org/share/8c114491207708c91e9ae50484da70a0), WIP with [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture);
   - [English pronunciation skills](https://www.futurelearn.com/certificates/oryxcik);
   - Algorithms;
-- 💬 Ask me anything about software development, Jiu-Jitsu or sustainable lifestyle
+- 💬 Ask me anything about software development, Jiu-Jitsu, sustainable lifestyle or parenthood
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu practitioner and athlete
 
