@@ -10,9 +10,9 @@
 &nbsp;
 
 - 👨‍💻 I'm currently an Android Developer at [AP Interactive](www.linkedin.com/company/ap-digital-services) working with the [Shell Box app](https://play.google.com/store/apps/details?id=com.raizen.acelera)
-- 🔭 I’m currently building [ELTA Books](https://www.instagram.com/elta.books) app
+- 🔭 I’m currently building [ELTA Books app](https://www.instagram.com/elta.books)
 - 🌱 I’m currently improving (WIP):
-  - [Android/Kotlin](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940);
+  - [Android/Kotlin development skills](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940);
   - [English skills](https://wiseup.com);
 - 💬 Ask me anything about software development, Jiu-Jitsu, sustainable lifestyle or parenthood
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
