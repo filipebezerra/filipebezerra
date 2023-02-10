@@ -9,16 +9,14 @@
 
 &nbsp;
 
-- 👨‍💻 I'm currently an Android Developer at [MovilePay](https://www.linkedin.com/company/movilepay)
-- 🔭 I’m currently working on PRIMUS app for [ICS at Goiânia](http://www.icsaude.com.br) and [ELTA Books](https://www.instagram.com/elta.books) app
+- 👨‍💻 I'm currently an Android Developer at [AP Interactive](www.linkedin.com/company/ap-digital-services) working with the [Shell Box app](https://play.google.com/store/apps/details?id=com.raizen.acelera)
+- 🔭 I’m currently building [ELTA Books](https://www.instagram.com/elta.books) app
 - 🌱 I’m currently improving (WIP):
-  - [Android/Kotlin](https://developer.android.com/kotlin?hl=pt-br) && [Python](https://www.python.org/about/gettingstarted/) development skills;
-  - [Software engineering, design and architecture skills](https://coursera.org/share/8c114491207708c91e9ae50484da70a0), WIP with [Software Design and Architecture Specialization](https://www.coursera.org/specializations/software-design-architecture);
-  - [English pronunciation skills](https://www.futurelearn.com/certificates/oryxcik);
-  - Algorithms;
+  - [Android/Kotlin](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940);
+  - [English skills](https://wiseup.com);
 - 💬 Ask me anything about software development, Jiu-Jitsu, sustainable lifestyle or parenthood
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
-- ⚡ Fun fact: I'm a blue belt Jiu-Jitsu practitioner and athlete
+- ⚡ Fun fact: I'm a blue belt Jiu-Jitsu and Wrestling practitioner and athlete
 
 &nbsp;
 
