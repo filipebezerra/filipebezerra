@@ -1,4 +1,4 @@
-## Hi, I'm Filipe Bezerra, a Full-Stack Developer 🚀 using Kotlin && Python (rarely with Java, but don't expect that) from Brazil.
+## Hi there, I'm Filipe Bezerra, a Full-Stack Developer 🚀 using Kotlin & Python (rarely Java, but don't expect that) from Brazil.
 
 [![Github](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white)](https://github.com/filipebezerra)
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/filipebezerra/)
@@ -9,11 +9,11 @@
 
 &nbsp;
 
-- 👨‍💻 I'm currently an Android Developer at [AP Interactive](www.linkedin.com/company/ap-digital-services) working with the [Shell Box app](https://play.google.com/store/apps/details?id=com.raizen.acelera)
+- 👨‍💻 I'm currently an Android Developer at [Critical Techworks (BMW Group)]([www.linkedin.com/company/ap-digital-services](https://www.criticaltechworks.com/technologies/)) working with the Media app for BMW and Mini cars.
 - 🔭 I’m currently building [ELTA Books app](https://www.instagram.com/elta.books)
 - 🌱 I’m currently improving (WIP):
-  - [Android/Kotlin development skills](https://www.udacity.com/course/android-kotlin-developer-nanodegree--nd940);
-  - [English skills](https://wiseup.com);
+  - [Android/Kotlin development skills -> Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer);
+  - [English skills -> Wise Up Plus](https://wiseup.com);
 - 💬 Ask me anything about software development, Jiu-Jitsu, sustainable lifestyle or parenthood
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu and Wrestling practitioner and athlete
