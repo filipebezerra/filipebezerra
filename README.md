@@ -14,6 +14,7 @@
 - 🌱 I’m currently improving (WIP):
   - [Android/Kotlin development skills -> Meta Android Developer Professional Certificate](https://www.coursera.org/professional-certificates/meta-android-developer);
   - [English skills -> Wise Up Plus](https://wiseup.com);
+  - [Jiu-Jitsu Blue belt skills -> Bitim Grappling Jiu-Jitsu Portugal](https://bitimonline.com)
 - 💬 Ask me anything about software development, Jiu-Jitsu, sustainable lifestyle or parenthood
 - 📫 How to reach me: [filipebzerra@gmail.com](mailto:filipebzerra@gmail.com)
 - ⚡ Fun fact: I'm a blue belt Jiu-Jitsu and Wrestling practitioner and athlete
